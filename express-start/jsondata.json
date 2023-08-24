@@ -1,0 +1,585 @@
+{
+  "object": "list",
+  "data_ref": "vouchers",
+  "vouchers": [
+      {
+          "id": 69,
+          "couponNo": "ONF5Q1HIC0UFE1",
+          "title": "shopee Lazada coupon",
+          "icon": "https://d2j17nvizopubb.cloudfront.net/B2C/ae327055-2f5e-4e7c-bcb5-d705f2be854a.jpg",
+          "couponDesc": "shopee Lazada coupon",
+          "amount": "500",
+          "startTime": 1597420800000,
+          "endTime": 1672502399000,
+          "status": 3,
+          "source_from": "legacy",
+          "code": "ONF5Q1HIC0UFE1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "shopee Lazada coupon",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 70,
+          "couponNo": "O2JRPAVBJ9ENR1",
+          "title": "shopee Lazada coupon",
+          "icon": "https://d2j17nvizopubb.cloudfront.net/B2C/ae327055-2f5e-4e7c-bcb5-d705f2be854a.jpg",
+          "couponDesc": "shopee Lazada coupon",
+          "amount": "500",
+          "startTime": 1597420800000,
+          "endTime": 1672502399000,
+          "status": 3,
+          "source_from": "legacy",
+          "code": "O2JRPAVBJ9ENR1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "shopee Lazada coupon",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 71,
+          "couponNo": "OGSF2QOPQNDME2",
+          "title": "shopee Lazada coupon",
+          "icon": "https://d2j17nvizopubb.cloudfront.net/B2C/ae327055-2f5e-4e7c-bcb5-d705f2be854a.jpg",
+          "couponDesc": "shopee Lazada coupon",
+          "amount": "500",
+          "startTime": 1597420800000,
+          "endTime": 1672502399000,
+          "status": 3,
+          "source_from": "legacy",
+          "code": "OGSF2QOPQNDME2",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "shopee Lazada coupon",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 72,
+          "couponNo": "O87KSFSK5YDUW1",
+          "title": "shopee Lazada coupon",
+          "icon": "https://d2j17nvizopubb.cloudfront.net/B2C/ae327055-2f5e-4e7c-bcb5-d705f2be854a.jpg",
+          "couponDesc": "shopee Lazada coupon",
+          "amount": "500",
+          "startTime": 1597420800000,
+          "endTime": 1672502399000,
+          "status": 3,
+          "source_from": "legacy",
+          "code": "O87KSFSK5YDUW1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "shopee Lazada coupon",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8755,
+          "couponNo": "CT5M94WMTWFK81",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1669161600000,
+          "endTime": 1684799999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CT5M94WMTWFK81",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8756,
+          "couponNo": "C1EBO3UF1FQMR1",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1669161600000,
+          "endTime": 1684799999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "C1EBO3UF1FQMR1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8757,
+          "couponNo": "C9RTLYV7JQU0Y1",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1669161600000,
+          "endTime": 1684799999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "C9RTLYV7JQU0Y1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8758,
+          "couponNo": "CL63R7NPD37GO2",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1669161600000,
+          "endTime": 1684799999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CL63R7NPD37GO2",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8759,
+          "couponNo": "CT1B1RGTUVHEU1",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1669161600000,
+          "endTime": 1684799999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CT1B1RGTUVHEU1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8972,
+          "couponNo": "CY7P3UKPVKGRR1",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1673481600000,
+          "endTime": 1689119999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CY7P3UKPVKGRR1",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8973,
+          "couponNo": "C092NAXX51POR0",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1673481600000,
+          "endTime": 1689119999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "C092NAXX51POR0",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8974,
+          "couponNo": "CFEU1WDBJLCNU0",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1673481600000,
+          "endTime": 1689119999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CFEU1WDBJLCNU0",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8975,
+          "couponNo": "CELMK6C6DI1B02",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1673481600000,
+          "endTime": 1689119999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CELMK6C6DI1B02",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      },
+      {
+          "id": 8976,
+          "couponNo": "CLK74SVP6TP0Q0",
+          "title": "B2C Client Referral Voucher",
+          "icon": "https://uat-cdn.carsome.my/B2C/b7b4bdc0-8359-4c2a-bfa7-9a4fd7b3bbf2.jpg",
+          "couponDesc": "Your friends or family enjoy RM300 off when they use this voucher to buy a car from Carsome, Standard T&Cs apply.",
+          "amount": "0",
+          "startTime": 1673481600000,
+          "endTime": 1689119999000,
+          "status": 9,
+          "source_from": "legacy",
+          "code": "CLK74SVP6TP0Q0",
+          "category": "CARSOME",
+          "campaign": "",
+          "type": "DISCOUNT_VOUCHER",
+          "category_id": "",
+          "campaign_id": "",
+          "active": true,
+          "metadata": {
+              "category_vouchers": "buyer_legacy",
+              "type_voucher": "general voucher",
+              "voucher_title": "B2C Client Referral Voucher",
+              "min_transaction": null,
+              "cta_url_app_dictionary": {
+                  "path": "/homePage"
+              },
+              "how_to": "ไปที่หน้า 'บัตรกำนัลของฉัน' ในแท็บบัญชีจากเมนูหลัก | เลือก 'บัตรกำนัล' เลือก Voucher ที่คุณต้องการใช้ | แสดงรหัสบัตรกำนัลกับเจ้าหน้าที่ที่ร้าน CARSOME | ใช้รหัสที่ระบุในคำสั่งซื้อหรือธุรกรรมที่เกิดขึ้น",
+              "terms_and_conditions": "Get discounts by using vouchers when buying a car at CARSOME outlets. | Vouchers are only valid for use in the issuing country. | The voucher can be used for one (1) transaction only. | The voucher value cannot be exchanged for cash."
+          },
+          "expiration_date": null,
+          "start_date": null,
+          "voucher_status": "expired",
+          "type_display_object": {
+              "id": 1,
+              "type": "DISCOUNT_VOUCHER",
+              "display_title": "Discount",
+              "status": 1,
+              "createdAt": "2022-09-19T06:10:47.000Z",
+              "updatedAt": "2022-09-19T06:10:47.000Z"
+          }
+      }
+  ],
+  "total": 14,
+  "code": 200,
+  "message": "success",
+  "carsome_count": 14,
+  "partner_count": 0
+}

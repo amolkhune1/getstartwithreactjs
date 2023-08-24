@@ -2,7 +2,7 @@ const { check, validationResult } = require('express-validator');
 module.exports.checkRequestErrors = function (req, res, next) {
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
-    return res.status(400).json({
+    return res.status(200).json({
       message: 'error',
       errors: errors
         .array()
@@ -22,4 +22,10 @@ module.exports.validateVoucherListRequest = [
     .escape()
     .isInt()
     .withMessage('Page should be integer'),
+  check('limit')
+    .optional()
+    .trim()
+    .escape()
+    .isInt()
+    .withMessage('Record limit should be integer'),
 ];
