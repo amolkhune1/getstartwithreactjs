@@ -6,6 +6,7 @@ var logger = require('morgan');
 const cors = require('cors');
 const helmet = require('helmet');
 const postsRoute = require('./routes/posts');
+require('dotenv').config();
 var app = express();
 
 // view engine setup
