@@ -2,7 +2,12 @@ import { MouseEvent, useState } from "react";
 import ListGroup from "./components/ListGroup";
 import Alert from "./components/Alert";
 import Button from "./components/Button";
+import Rating from "./components/Rating";
+import FormDemo from "./components/FormDemo";
+import VideoDownload from "./components/VideoDownload";
+import VideoPlayer from "./components/VideoPlayer";
 function App() {
+  const [rating, setRating] = useState(0);
   const [selectedIndex, setSelectedIndex] = useState(-1);
   const [isAlert, setIsAlert] = useState(false);
   let items = ["New York", "San Francisco", "Tokyo", "London", "Paris"];
@@ -14,8 +19,11 @@ function App() {
     console.log("clicked");
     setIsAlert(true);
   };
+
   return (
     <div>
+      <VideoPlayer />
+      <VideoDownload />
       <ListGroup
         items={items}
         heading="Cities"
@@ -29,6 +37,9 @@ function App() {
       )}
 
       <Button onClick={buttonOnClick}>Click Me</Button>
+      <Rating rating={rating} onRatingCall={setRating} />
+      <p>Rating:{rating}</p>
+      <FormDemo />
     </div>
   );
 }
